@@ -7,3 +7,5 @@ Hoy hablaremos de su historia.
 Ahora este es un nuevo cambio.
 
 Este texto es el texto del cambio del sábado, 20 de agosto de 2022.
+
+Y este es un nuevo cambio el mismo sábado 20 de agosto.
