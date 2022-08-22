@@ -1,1 +1,2 @@
-Texto para primer commit lunes 22 de agosto de 2022
+Texto para primer commit lunes 22 de agosto.
+texto para segundo commit de lunes 22 de agosto de 2022.
